@@ -1,7 +1,7 @@
 # phaser3-cordovaApp
 
 
-References
+> References
 
 signing app - https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#signing-an-app
 
@@ -10,7 +10,7 @@ add platform - https://cordova.apache.org/docs/en/latest/guide/cli/index.html#ad
 build project - https://cordova.apache.org/docs/en/latest/guide/cli/index.html#build-the-app
 
 
-Flow
+> Flow
 
 - File of game in 'src_phaser' directory
 
