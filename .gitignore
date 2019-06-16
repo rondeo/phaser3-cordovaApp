@@ -1,4 +1,6 @@
 node_modules/
+package-lock.json
 platforms/browser/
 src_phaser/node_modules/
+src_phaser/package-lock.json
 platforms/android/app/build/outputs/apk/debug/*
