@@ -1,0 +1,4 @@
+node_modules/
+platforms/browser/
+src_phaser/node_modules/
+platforms/android/app/build/outputs/apk/debug/*
